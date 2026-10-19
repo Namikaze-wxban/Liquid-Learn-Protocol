@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F7F5ED"/>
+  <circle cx="1048" cy="160" r="248" stroke="#1F514A" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="1048" cy="160" r="195" stroke="#D7795C" stroke-opacity=".3" stroke-width="2"/>
+  <circle cx="1048" cy="160" r="136" fill="#DCE7DC"/>
+  <path d="M957 163c34-62 65 62 101 0s65 0 91 0" stroke="#1F514A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M969 190c29-43 57 43 86 0s57 0 78 0" stroke="#D7795C" stroke-width="3" stroke-linecap="round"/>
+  <text x="105" y="158" fill="#55766C" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">A CALMER WAY TO MEET AI</text>
+  <text x="100" y="286" fill="#1F423D" font-family="Georgia, serif" font-size="76">A little less mystery.</text>
+  <text x="100" y="382" fill="#D7795C" font-family="Georgia, serif" font-size="76" font-style="italic">A lot more useful.</text>
+  <text x="104" y="467" fill="#69736B" font-family="Arial, sans-serif" font-size="24">Free, plainspoken lessons for curious beginners.</text>
+  <rect x="100" y="518" width="374" height="54" rx="27" fill="#1F514A"/>
+  <text x="128" y="553" fill="#F6F3E9" font-family="Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="1">LIQUID LEARN PROTOCOL</text>
+</svg>

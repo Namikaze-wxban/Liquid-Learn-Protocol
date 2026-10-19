@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Liquid Learn Protocol"
+description = "A free, beginner-friendly AI learning site with searchable lessons, topic guides, publisher information, a privacy policy, and a protected writer area for publishing articles."
+version = "1.0.0"
+id = "artifacts/liquid-learn"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23200
+
+[services.development]
+run = "pnpm --filter @workspace/liquid-learn run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/liquid-learn", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/liquid-learn/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23200"
+BASE_PATH = "/"
