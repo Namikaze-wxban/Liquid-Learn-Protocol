@@ -1,0 +1,21 @@
+# Product Requirements Document: Liquid Learn Protocol
+
+## Intent & Goal
+A content-driven AI education website branded "Liquid Learn Protocol" that teaches complete beginners about AI technology. All content is free to read on the spot with no signup or paywall. The goal is to take someone with zero technical background from "what even is AI?" to confidently understanding and using AI in everyday life, building trust and an audience through plain-language explainers, tutorials, and guides. The site is published by Selvarani S, with publisher and contact information on a dedicated page.
+
+## Audience & Roles
+General public with no technical background — complete beginners curious about AI. No roles or permissions needed for readers: the site is fully public with no accounts. Writers/admins manage content behind the scenes.
+
+## Core Flows
+*These flows must work end-to-end:*
+
+1. Visitor lands on homepage → immediately understands what Liquid Learn Protocol is → sees featured/latest beginner content → clicks into an article or topic
+2. Visitor browses topics (e.g., What is AI, Everyday AI tools, Writing good prompts, AI safety & myths) → opens a topic → sees its articles
+3. Every article opens on its own dedicated page with a clean, focused reading experience, shareable URL, and a link back to its topic
+4. Visitor searches or browses the full article library → filters by topic or beginner level → reads an article on its own page
+5. Visitor opens the Publisher page → sees content published by Selvarani S with contact email Celeste.Celonix@gmail.com
+6. Visitor opens the Privacy Policy page (linked from the footer on every page) → reads a full, beginner-friendly privacy policy drafted by the builder: what data is and isn't collected, cookies and analytics, third-party services, content rights, and how to contact the publisher
+7. Admin/writer creates a new article with title, topic, cover image, and rich-text body → publishes it → it appears on the homepage, its topic page, and as its own standalone page
+
+## Design Preferences
+No direction given by the user — design is open. The brand name suggests a fluid, liquid-modern aesthetic that the build may interpret, keeping content readability first.
